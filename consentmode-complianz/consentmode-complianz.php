@@ -1,6 +1,5 @@
 <?php
 /*
-/*
 Plugin Name:  Complianz Google Consent Mode v2 para
 Description: Integra el Consent Mode v2 de Google con el plugin Complianz.
 Version: 1.0
